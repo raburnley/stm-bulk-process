@@ -45,14 +45,6 @@ STM Bulk Process is a desktop GUI application for batch processing `.sm4` scanni
 
 Depending on your Python environment, `tkinter` may already be included.
 
-## Installation
-
-Clone the repository:
-
-```bash
-git clone https://github.com/raburnley/stm-bulk-process.git
-cd stm-bulk-process
-
 ## Third-Party Software
 
 This application is built on top of SPyM, which is licensed under the MIT License.
@@ -60,3 +52,11 @@ This application is built on top of SPyM, which is licensed under the MIT Licens
 ## Acknowledgments
 
 This application was developed with assistance from OpenAI's ChatGPT for code generation, refactoring, UI design suggestions, and documentation support. Final testing, review, and use decisions were performed by the author.
+
+## Installation
+
+Clone the repository:
+
+```bash
+git clone https://github.com/raburnley/stm-bulk-process.git
+cd stm-bulk-process
